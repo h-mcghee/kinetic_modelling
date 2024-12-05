@@ -1,0 +1,20 @@
+font.family : Arial
+font.size : 10
+axes.titlesize : 10
+axes.labelsize : 10
+axes.linewidth : 1.2
+lines.linewidth : 1.5
+xtick.labelsize : 10
+xtick.major.size : 8
+xtick.minor.visible: True
+xtick.minor.size : 4
+xtick.direction : inout
+xtick.top : True
+ytick.direction : inout
+ytick.major.size : 8
+ytick.minor.visible : True
+ytick.minor.size : 4
+ytick.labelsize : 10
+figure.dpi : 100
+legend.frameon : False
+legend.handlelength : 1
